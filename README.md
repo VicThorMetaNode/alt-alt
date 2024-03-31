@@ -1,6 +1,9 @@
 # Open-Source Software alternative's Platform
 This platform presents a comprehensive directory of alternatives to centralized software, **featuring exclusively free and open-source options.**
 
+![Capture d’écran 2024-03-12 à 18 23 56](https://github.com/VicThorMetaNode/alt-alt/assets/98230162/17d068eb-7e96-4397-ac64-5d80dc3bd603)
+
+
 - **Inspired by a predecessor** @awesome-privacy [awesome-privacy - GITHUB](https://github.com/pluja/awesome-privacy):  this project has been reimagined to be more attractive and user-friendly, incorporating a modern UI design. The organization of the listing is structured around categories and detailed pages for each software alternative. The mobile version prioritizes conciseness and directness with abbreviated text, while the desktop version offers more extensive details about each alternative.
 
   ## Background
