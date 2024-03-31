@@ -1,54 +1,19 @@
-# Astro Starter Kit: Basics
+# Open-Source Software alternative's Platform
+This platform presents a comprehensive directory of alternatives to centralized software, **featuring exclusively free and open-source options.**
 
-```sh
-npm create astro@latest -- --template basics
-```
+- **Inspired by a predecessor** @awesome-privacy [awesome-privacy - GITHUB](https://github.com/pluja/awesome-privacy):  this project has been reimagined to be more attractive and user-friendly, incorporating a modern UI design. The organization of the listing is structured around categories and detailed pages for each software alternative. The mobile version prioritizes conciseness and directness with abbreviated text, while the desktop version offers more extensive details about each alternative.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+  ## Background
+  "This web project draws inspiration from the @Awesome-Privacy initiative, which is dedicated to compiling a 'List of free, open source, and privacy-respecting services and alternatives to proprietary services.' The aim was to develop a website that builds on this listing, making it more accessible for users to obtain information. It facilitates an effortless process for users to find all the necessary details and provides straightforward download options for open-source alternatives to centralized software, all in the pursuit of enhanced security and privacy."
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+  ## Features
+  - **Tailored UI designs for mobile and desktop to simplify navigation**. The mobile interface adopts a retro style, focusing on directness with concise text and information. Conversely, the desktop version is rich in content, offering extensive information and detailed descriptions of alternatives.
+  - **Less JS the better**. An emphasis on minimal JavaScript usage, leveraging a lighter logic approach and utilizing the capabilities of Astro for optimal performance.
+  - **Easy call to action**. Each alternative software is accompanied by straightforward call-to-action buttons, guiding users seamlessly to the software's website or download page, simplifying the process of acquiring alternative software.
+  - The compilation of the listing is the result of thorough research and exploration conducted by our team.
+ 
+    ## 🧰 Tools Used
+    - 🗹 **Astro**
+    - 🗹 **Tailwind**
+    - 🗹 **TypeScript**
+    - 🗹 **Alpine**
