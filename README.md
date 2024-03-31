@@ -13,8 +13,7 @@ This platform presents a comprehensive directory of alternatives to centralized 
   - **Tailored UI designs for mobile and desktop to simplify navigation**. The mobile interface adopts a retro style, focusing on directness with concise text and information. Conversely, the desktop version is rich in content, offering extensive information and detailed descriptions of alternatives.
   - **Less JS the better**. An emphasis on minimal JavaScript usage, leveraging a lighter logic approach and utilizing the capabilities of Astro for optimal performance.
   - **Easy call to action**. Each alternative software is accompanied by straightforward call-to-action buttons, guiding users seamlessly to the software's website or download page, simplifying the process of acquiring alternative software.
-  - The compilation of the listing is the result of thorough research and exploration conducted by our team.
- 
+
     ## 🧰 Tools Used
     - 🗹 **Astro**
     - 🗹 **Tailwind**
